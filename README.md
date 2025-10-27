@@ -1,2 +1,3 @@
-# Sample-Project-0.2
-Sample-Project-0.2
+# Real Estate Career Advisor
+
+An intelligent bot that guides talented candidates...
